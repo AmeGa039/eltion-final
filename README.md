@@ -1,2 +1,0 @@
-# eltion-final
-Final project
